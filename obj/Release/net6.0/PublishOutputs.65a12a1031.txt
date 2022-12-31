@@ -1,0 +1,12 @@
+C:\Works\Git\NewsApi\obj\Release\net6.0\PubTmp\Out\NewsApi.exe
+C:\Works\Git\NewsApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Works\Git\NewsApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Works\Git\NewsApi\obj\Release\net6.0\PubTmp\Out\NewsApi.dll
+C:\Works\Git\NewsApi\obj\Release\net6.0\PubTmp\Out\NewsApi.deps.json
+C:\Works\Git\NewsApi\obj\Release\net6.0\PubTmp\Out\NewsApi.runtimeconfig.json
+C:\Works\Git\NewsApi\obj\Release\net6.0\PubTmp\Out\NewsApi.pdb
+C:\Works\Git\NewsApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Works\Git\NewsApi\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Works\Git\NewsApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Works\Git\NewsApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Works\Git\NewsApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
